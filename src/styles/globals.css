@@ -8,6 +8,7 @@ html,
 body {
   padding: 0;
   margin: 0;
+  font-family: "Darker Grotesque", sans-serif;
 }
 
 a {
@@ -17,5 +18,4 @@ a {
 
 * {
   box-sizing: border-box;
-  font-family: "Darker Grotesque", sans-serif;
 }
